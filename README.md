@@ -1,4 +1,4 @@
-https://media.istockphoto.com/id/1133769470/vector/javascript-concept-banner-header.jpg?s=170667a&w=0&k=20&c=GnKoYotlaI01K45BrUOrQtek4AKmJyGlbzXe2p_ZitE=
+<img align="center" alt="Cover photo" width="100%" src="https://media.istockphoto.com/id/1133769470/vector/javascript-concept-banner-header.jpg?s=170667a&w=0&k=20&c=GnKoYotlaI01K45BrUOrQtek4AKmJyGlbzXe2p_ZitE=">
 <h1 align="center">Hi 👋, I'm Djordje Stanković</h1>
 <h3 align="center">An ambitious Fullstack developer from Serbia</h3>
 <img align="right" alt="Javascript Image" width="400" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
